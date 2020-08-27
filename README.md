@@ -22,7 +22,7 @@ Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 ---
 ## Projects :
 * Springboot and Angular - https://www.youtube.com/watch?v=DKlTBBuc32c
-* Covid tracker - https://www.youtube.com/watch?v=8hjNG9GZGnQ
+* E-Commerce - https://www.youtube.com/playlist?list=PL2UwEEhB4YafpL-nXPn8rwkNC3pASLpit
 
 ---
 # Advance concepts:
