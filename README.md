@@ -1,14 +1,22 @@
 # Web-Frameworks
 Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 
-# 1. SpringBoot :
+## 1. React JS:
 
-## Requirements (any one): 
+- [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e)
+  It is a Comprehensive guid for React beginners
+- [Manan Gouhari Documented how he learnt React(this will give you idea how to learn)](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix)
+- [An online Ide for Learning React](https://codesandbox.io/?from-app=1)
+  codesandbox.io will reduce incial friction while learning
+
+## 2. SpringBoot :
+
+### Requirements (any one): 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [VS-Code](https://code.visualstudio.com) (less preferable)
 
-## References :
+### References :
 * What is Spring -
   * https://www.youtube.com/watch?v=gq4S-ovWVlM
   * https://www.javatpoint.com/spring-boot-tutorial
@@ -20,12 +28,12 @@ Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 * Getting started - https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
 
 ---
-## Projects :
+### Projects :
 * Springboot and Angular - https://www.youtube.com/watch?v=DKlTBBuc32c
 * E-Commerce - https://www.youtube.com/playlist?list=PL2UwEEhB4YafpL-nXPn8rwkNC3pASLpit
 
 ---
-# Advance concepts:
+### Advance concepts:
 * Internal working - https://www.youtube.com/watch?v=qlygg_H1M20
 * Adding securities - https://www.youtube.com/watch?v=PhG5p_yv0zs&t=1s
 * Security in Spring - https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnEs
