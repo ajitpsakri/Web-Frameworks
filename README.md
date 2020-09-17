@@ -37,3 +37,18 @@ Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 * Internal working - https://www.youtube.com/watch?v=qlygg_H1M20
 * Adding securities - https://www.youtube.com/watch?v=PhG5p_yv0zs&t=1s
 * Security in Spring - https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnEs
+
+## 3. Django
+
+### Requirements :
+ - [Python](https://github.com/TheByteSlash/Programming-Languages)
+ 
+### References :
+- [What is Django?](https://youtu.be/VY6MZGPKR5c)
+- [Django Tutorial by Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9)
+- [Djanog Tutorial by ProgrammingWithMosh](https://youtu.be/_uQrJ0TkZlc?t=17948)
+
+### Projects :
+- [Social Media Website](https://www.youtube.com/playlist?list=PLD7Lh5tVPfbd3CXXmk2B4hvVw5TyWCjEo)
+- [Ecommerce](https://www.youtube.com/playlist?list=PLLRM7ROnmA9F2vBXypzzplFjcHUaKWWP5)
+- [Todo List](https://youtu.be/ovql0Ui3n_I)
