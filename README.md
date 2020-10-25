@@ -7,10 +7,19 @@ Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 ### Learning how to learn React.js
 
 - [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e)
-  It is a Comprehensive guid for React beginners
-- [Manan Gouhari Documented how he learnt React(this will give you idea how to learn)](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix)
+  it is a Comprehensive guid
+- [Manan Gouhari Documented how he learnt React](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix)this will give you an idea how to learn
+- [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y)Don't judge video by its title there is no substitution for learning hard concepts.
+
+### Requirements
+
 - [An online Ide for Learning React](https://codesandbox.io/?from-app=1)
   codesandbox.io will reduce incial friction while learning
+- [Vs code](https://code.visualstudio.com/Download)
+
+### References
+
+- [React official documentation](https://reactjs.org/docs/getting-started.html)
 
 ## 2. SpringBoot :
 
