@@ -41,6 +41,8 @@
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [VS-Code](https://code.visualstudio.com) (less preferable)
 
+---
+
 ### References :
 
 - What is Spring -
@@ -75,11 +77,15 @@
 
 - [Python](https://github.com/TheByteSlash/Programming-Languages)
 
+---
+
 ### References :
 
 - [What is Django?](https://youtu.be/VY6MZGPKR5c)
 - [Django Tutorial by Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9)
 - [Djanog Tutorial by ProgrammingWithMosh](https://youtu.be/_uQrJ0TkZlc?t=17948)
+
+---
 
 ### Projects :
 
