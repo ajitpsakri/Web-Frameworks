@@ -8,8 +8,8 @@ Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 
 - [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e)
   it is a Comprehensive guid
-- [Manan Gouhari Documented how he learnt React](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix)this will give you an idea how to learn
-- [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y)Don't judge video by its title there is no substitution for learning hard concepts.
+- [Manan Gouhari Documented how he learnt React](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix) this will give you an idea how to learn
+- [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y) Don't judge video by its title there is no substitution for learning hard concepts.
 
 ### Requirements
 
