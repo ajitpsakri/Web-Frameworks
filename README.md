@@ -1,6 +1,8 @@
 # Web-Frameworks
 
-Learn the modern in demand Web Frameworks to become a Pro at Web Developement
+## Learn the modern in demand Web Frameworks to become a Pro at Web Developement
+
+---
 
 ## 1. React JS:
 
@@ -11,15 +13,25 @@ Learn the modern in demand Web Frameworks to become a Pro at Web Developement
 - [Manan Gouhari Documented how he learnt React](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix) this will give you an idea how to learn
 - [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y) Don't judge video by its title there is no substitution for learning hard concepts.
 
+---
+
 ### Requirements
 
 - [An online Ide for Learning React](https://codesandbox.io/?from-app=1)
   codesandbox.io will reduce incial friction while learning
 - [Vs code](https://code.visualstudio.com/Download)
 
+---
+
 ### References
 
 - [React official documentation](https://reactjs.org/docs/getting-started.html)
+- [scrimba React courses](https://scrimba.com/allcourses?q=react)
+- [Learnig can be frustrating at times, so reading React code would be a nice break](https://codesandbox.io/search?refinementList%5Btemplate%5D%5B0%5D=create-react-app&page=1&configure%5BhitsPerPage%5D=12)
+- [CodeCademy React 101](https://www.codecademy.com/learn/react-101)
+- [React Resources](https://reactresources.com/)
+
+---
 
 ## 2. SpringBoot :
 
